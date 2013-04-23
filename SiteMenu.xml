@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuSite>
+  <MainMenu>
+    <Name>default</Name>
+    <MainMenuCaption>
+    </MainMenuCaption>
+    <CurrentRelativePath>
+    </CurrentRelativePath>
+    <Font FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+    <Appearance BGColor="" CellPadding="0" HighLightedImageRef="images/Highlighted.GIF" IndicateHighLighted="False" Width="75" MenuStyle="0" />
+    <MenuItem>
+      <ItemCaption>Properties</ItemCaption>
+      <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+      <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+      <FolderURL>
+      </FolderURL>
+      <PageURL>#</PageURL>
+      <MenuItem>
+        <ItemCaption>Search</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>search</FolderURL>
+        <PageURL>ResidentialAdvancedSearch.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Featured Searches</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>search</FolderURL>
+        <PageURL>featuredsearches.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Featured Properties</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>search</FolderURL>
+        <PageURL>FeaturedListings.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Open Houses</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>search</FolderURL>
+        <PageURL>openhouse.aspx</PageURL>
+      </MenuItem>
+    </MenuItem>
+    <MenuItem>
+      <ItemCaption>Community</ItemCaption>
+      <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+      <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+      <FolderURL>Pages</FolderURL>
+      <PageURL>#</PageURL>
+      <MenuItem>
+        <ItemCaption>Highlands Area Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>HighlandsAreaGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Highlands Relocation Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>HighlandsRelocationGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Highlands School Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>HighlandsSchoolGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Diamondville Area Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>DiamondvilleAreaGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Diamondville Relocation Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>DiamondvilleRelocationGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Diamondville School Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>DiamondvilleSchoolGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Bluffton Area Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>BlufftonAreaGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Bluffton Relocation Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>BlufftonRelocationGuide.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Bluffton School Guide</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="True" Visible="True" MenuBreak="False" />
+        <FolderURL>Pages</FolderURL>
+        <PageURL>BlufftonSchoolGuide.aspx</PageURL>
+      </MenuItem>
+    </MenuItem>
+    <MenuItem>
+      <ItemCaption>Buyers</ItemCaption>
+      <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+      <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+      <FolderURL>
+      </FolderURL>
+      <PageURL>#</PageURL>
+      <MenuItem>
+        <ItemCaption>Neighborhood Report</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>search</FolderURL>
+        <PageURL>NeighborhoodReport.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Mortgage Calculator</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>buyers</FolderURL>
+        <PageURL>MortgageCalc.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Resources </ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>Buyers</FolderURL>
+        <PageURL>default.aspx</PageURL>
+      </MenuItem>
+    </MenuItem>
+    <MenuItem>
+      <ItemCaption>Sellers</ItemCaption>
+      <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+      <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+      <FolderURL>
+      </FolderURL>
+      <PageURL>#</PageURL>
+      <MenuItem>
+        <ItemCaption>Neighborhood Values</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>search</FolderURL>
+        <PageURL>comparablehomes.aspx</PageURL>
+      </MenuItem>
+      <MenuItem>
+        <ItemCaption>Resources</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>sellers</FolderURL>
+        <PageURL>default.aspx</PageURL>
+      </MenuItem>
+    </MenuItem>
+    <MenuItem>
+      <ItemCaption>About</ItemCaption>
+      <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+      <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+      <FolderURL>
+      </FolderURL>
+      <PageURL>#</PageURL>
+      <MenuItem>
+        <ItemCaption>About Me</ItemCaption>
+        <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+        <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+        <FolderURL>aboutus</FolderURL>
+        <PageURL>default.aspx</PageURL>
+      </MenuItem>
+    </MenuItem>
+    <MenuItem>
+      <ItemCaption>Contact</ItemCaption>
+      <ItemFont FontName="" FontBold="False" FontItalic="False" FontSize="0" FontColor="" />
+      <ItemApp Enabled="True" HighLighted="False" LeaveExpanded="False" Visible="True" MenuBreak="False" />
+      <FolderURL>ContactUs</FolderURL>
+      <PageURL>default.aspx</PageURL>
+    </MenuItem>
+  </MainMenu>
+</MenuSite>
